@@ -1,3 +1,8 @@
+package bomberman;
+
+import bomberman.BomberBomb;
+import bomberman.BomberMain;
+import bomberman.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

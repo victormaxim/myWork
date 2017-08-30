@@ -1,3 +1,5 @@
+package bomberman;
+
 /*
  * SoundPlayer.java
  * Created on March 10, 2001, 4:23 PM

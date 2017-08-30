@@ -1,3 +1,7 @@
+package bomberman;
+
+import bomberman.BomberMap;
+
 import java.awt.*;
 import javax.swing.*;
 

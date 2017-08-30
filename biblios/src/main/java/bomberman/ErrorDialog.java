@@ -1,3 +1,5 @@
+package bomberman;
+
 /*
  * ErrorDialog.java
  * Created on March 9, 2001, 3:06 PM

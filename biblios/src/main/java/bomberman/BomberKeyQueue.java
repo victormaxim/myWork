@@ -1,3 +1,5 @@
+package bomberman;
+
 /**
  * File:         BomberKeyQueue.java
  * Copyright:    Copyright (c) 2001

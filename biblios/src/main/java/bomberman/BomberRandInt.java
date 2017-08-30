@@ -1,3 +1,5 @@
+package bomberman;
+
 /**
  * File:         BomberRandInt.java
  * Copyright:    Copyright (c) 2001

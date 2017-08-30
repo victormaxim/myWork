@@ -1,3 +1,5 @@
+package bomberman;
+
 import java.io.*;
 
 /**
