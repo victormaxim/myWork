@@ -15,7 +15,7 @@ static WebDriver driver = new FirefoxDriver();
 	@Test
 	public void simpleOrder(){
 		WebDriver driver = new FirefoxDriver();
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get("http://www.soastastore.com/?page_id=4");
 		
 		driver.findElement(By.id("product_111_submit_button")).click();
