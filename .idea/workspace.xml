@@ -5,29 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="add bomberman&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberBGM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberBomb.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberBonus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberConfigDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberFire.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberGame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberImageButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberKeyConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberKeyQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberMain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberRandInt.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/BomberSndEffect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/ErrorDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bomberman/SoundPlayer.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/myWork/B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/myWork/Multiclass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Multiclass.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TelacadFinal/Adauga.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TelacadFinal/Angajat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TelacadFinal/Fereastra.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TelacadFinal/package.bluej" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberBGM.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberBomb.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberBonus.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberConfigDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberFire.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberGame.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberImageButton.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberKeyConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberKeyQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberMain.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberMap.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberPlayer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberRandInt.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/BomberSndEffect.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/ErrorDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/bomberman/SoundPlayer.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Wiley.java" afterPath="$PROJECT_DIR$/src/Wiley.java" />
     </list>
     <ignored path="myWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,113 +49,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SudokuCopy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SudokuCopy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Wiley.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Wiley.java">
+      <file leaf-file-name="Fereastra.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TelacadFinal/Fereastra.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#236#245#0" expanded="true" />
+                <element signature="e#284#293#0" expanded="true" />
+                <element signature="e#622#631#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BomberBGM.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBGM.java">
+      <file leaf-file-name="Adauga.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TelacadFinal/Adauga.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BomberMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberMain.java">
+      <file leaf-file-name="Angajat.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TelacadFinal/Angajat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1886">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-              <folding>
-                <element signature="e#1009#1303#0" expanded="true" />
-                <element signature="e#1302#1303#0" expanded="true" />
-                <element signature="e#1849#1850#0" expanded="true" />
-                <element signature="e#1920#1921#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BomberImageButton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberImageButton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BomberBonus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBonus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BomberKeyQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberKeyQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-              <folding>
-                <element signature="e#3099#3100#0" expanded="true" />
-                <element signature="e#3134#3135#0" expanded="true" />
-                <element signature="e#3206#3207#0" expanded="true" />
-                <element signature="e#3239#3240#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BomberBomb.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBomb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BomberMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="195" column="9" selection-start-line="192" selection-start-column="5" selection-end-line="195" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BomberMap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bomberman/BomberMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="293" column="3" selection-start-line="293" selection-start-column="3" selection-end-line="298" selection-end-column="10" />
+            <state relative-caret-position="54">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -182,12 +106,17 @@
         <option value="$PROJECT_DIR$/src/Garaj.java" />
         <option value="$PROJECT_DIR$/src/Wiley.java" />
         <option value="$PROJECT_DIR$/src/bomberman/BomberImageButton.java" />
-        <option value="$PROJECT_DIR$/src/bomberman/BomberBonus.java" />
         <option value="$PROJECT_DIR$/src/bomberman/BomberKeyQueue.java" />
         <option value="$PROJECT_DIR$/src/bomberman/BomberBomb.java" />
         <option value="$PROJECT_DIR$/src/bomberman/BomberMenu.java" />
         <option value="$PROJECT_DIR$/src/bomberman/BomberMap.java" />
         <option value="$PROJECT_DIR$/src/bomberman/BomberMain.java" />
+        <option value="$PROJECT_DIR$/src/TelacadFinal/Adauga.java" />
+        <option value="$PROJECT_DIR$/src/TelacadFinal/Angajat.java" />
+        <option value="$PROJECT_DIR$/src/TelacadFinal/Fereastra.java" />
+        <option value="$PROJECT_DIR$/src/bomberman/BomberBGM.java" />
+        <option value="$PROJECT_DIR$/src/bomberman/BomberBonus.java" />
+        <option value="$PROJECT_DIR$/src/bomberman/BomberFire.java" />
       </list>
     </option>
   </component>
@@ -286,7 +215,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="telacad" />
+              <option name="myItemId" value="TelacadFinal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,7 +233,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bomberman" />
+              <option name="myItemId" value="telacad" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -322,6 +251,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dictionaries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -336,22 +297,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.BomberMain">
-    <configuration default="false" name="Snippets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Snippets" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="myWork" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Fereastra">
     <configuration default="false" name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Sudoku" />
@@ -405,6 +351,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="bomberman.BomberMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="myWork" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Fereastra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TelacadFinal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TelacadFinal.Fereastra" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -662,19 +628,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Snippets" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Sudoku" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SudokuCopy" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Wiley" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BomberMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Sudoku" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SudokuCopy" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Wiley" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BomberMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Fereastra" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BomberMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Wiley" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SudokuCopy" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Sudoku" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Snippets" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Fereastra" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BomberMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Wiley" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SudokuCopy" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Sudoku" />
       </list>
     </recent_temporary>
   </component>
@@ -696,16 +662,23 @@
       <option name="project" value="LOCAL" />
       <updated>1504367837063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add bomberman&#10;">
+      <created>1504368729002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504368729002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -715,7 +688,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -919,14 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBGM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bomberman/BomberImageButton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -935,24 +901,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBonus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="99" column="9" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bomberman/BomberKeyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-          <folding>
-            <element signature="e#3099#3100#0" expanded="true" />
-            <element signature="e#3134#3135#0" expanded="true" />
-            <element signature="e#3206#3207#0" expanded="true" />
-            <element signature="e#3239#3240#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -975,21 +928,85 @@
     <entry file="file://$PROJECT_DIR$/src/bomberman/BomberMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="293" column="3" selection-start-line="293" selection-start-column="3" selection-end-line="298" selection-end-column="10" />
+          <caret line="292" column="3" selection-start-line="292" selection-start-column="3" selection-end-line="297" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TelacadFinal/Adauga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TelacadFinal/Angajat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bomberman/BomberMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1886">
+        <state relative-caret-position="-1582">
           <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TelacadFinal/Fereastra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#1009#1303#0" expanded="true" />
-            <element signature="e#1302#1303#0" expanded="true" />
-            <element signature="e#1849#1850#0" expanded="true" />
-            <element signature="e#1920#1921#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#245#0" expanded="true" />
+            <element signature="e#284#293#0" expanded="true" />
+            <element signature="e#622#631#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBGM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="80" column="7" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberBonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberFire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bomberman/BomberConfigDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="98" column="5" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
