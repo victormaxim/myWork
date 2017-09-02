@@ -1,6 +1,8 @@
+import java.io.File;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.HashMap;
 
 /**
  * Created by alexandru.dima on 11/17/2016.
@@ -20,6 +22,22 @@ public class Snippets {
         int y = 15;
         System.out.println(x ^ y);
 
+//    LIST FILES OF JAVA DIRECTORY
+        File file = new File(".");
+        for(String fileNames : file.list()) System.out.println(fileNames);
+
+//      hash map
+        HashMap psd = new HashMap();
+        // Put elements to the map
+        psd.put("primul text", "10");
+        psd.put("al 2-lea text", "11");
+
+        System.out.println(psd);
+        System.out.println(psd.get("primul text"));
+
+//      RUNNER IMPLEMENTATION
+        Runner run = new Runner(243);
+        run.run(x);
 
 
     }
@@ -29,7 +47,7 @@ class Threader {
     static int x=20;
     public static void main(String[] args) {
 
-        Runner run = new Runner(1043);
+        Runner run = new Runner(243);
         run.run(x);
     }
 
