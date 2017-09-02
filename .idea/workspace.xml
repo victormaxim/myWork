@@ -5,106 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="lucraturi&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/DecoyDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/Duck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/FakeQuack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/FlyBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/FlyNoWay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/FlyRocketPowered.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/FlyWithWings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/MallardDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/MiniDuckSimulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/ModelDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/MuteQuack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/Quack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/QuackBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/RedHeadDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/RubberDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH02/Squeak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/ForecastDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/HeatIndexDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/StatisticsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/WeatherStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/WeatherStationHeatIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/ForecastDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/HeatIndexDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/StatisticsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/WeatherStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/WeatherStationHeatIndex.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/InputTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/LowerCaseInputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Beverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/CondimentDecorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/DarkRoast.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Decaf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Espresso.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/HouseBlend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Milk.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Mocha.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Soy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/StarbuzzCoffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/Whip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/classic/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/classic/SingletonClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/stat/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/stat/SingletonClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/threadsafe/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/threadsafe/SingletonClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumball/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumball/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/HasQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/NoQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/SoldOutState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/SoldState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumballstate/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/Collections.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Cafe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/DinerMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/DinerMenuIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Iterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/PancakeHouseMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/PancakeHouseMenuIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/Cafe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/DinerMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/DinerMenuIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/PancakeHouseMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/ChicagoPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/ChicagoStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/ChicagoStyleClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/ChicagoStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/ChicagoStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/DependentPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/NYPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/NYStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/NYStyleClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/NYStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/NYStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/Pizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/PizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzafm/PizzaTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/CheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/ClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/PepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/Pizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/PizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/PizzaTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/SimplePizzaFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercise_Files/CH08/factory/pizzas/VeggiePizza.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myWork/test.txt" afterPath="$PROJECT_DIR$/out/production/myWork/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/test.txt" afterPath="$PROJECT_DIR$/resources/test.txt" />
     </list>
     <ignored path="myWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,101 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/classic/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/stat/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/threadsafe/Singleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumball/GumballMachineTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cafe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Cafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Iterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cafe.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/Cafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DinerMenu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/DinerMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-87">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingletonClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/threadsafe/SingletonClient.java">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingletonClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/stat/SingletonClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -285,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/Exercise_Files/CH02/FlyBehavior.java" />
         <option value="$PROJECT_DIR$/resources/test.txt" />
         <option value="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/InputTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -386,320 +208,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iterator_builtin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iterator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="state" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gumball" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="singleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="threadsafe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="singleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="singleton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="decorator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="starbuzz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="decorator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="observer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercise_Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -715,24 +223,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionaries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1174,12 +664,19 @@
       <option name="project" value="LOCAL" />
       <updated>1504372452396</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lucraturi&#10;">
+      <created>1504378503069</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1504378503069</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1188,12 +685,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27193934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27193934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51895994" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1236,35 +733,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-          <folding>
-            <element signature="e#1280#1281#0" expanded="true" />
-            <element signature="e#1338#1339#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
-            <element signature="e#1744#1745#0" expanded="true" />
-            <element signature="e#2478#2479#0" expanded="true" />
-            <element signature="e#2520#2521#0" expanded="true" />
-            <element signature="e#2692#2693#0" expanded="true" />
-            <element signature="e#2727#2728#0" expanded="true" />
-            <element signature="e#2956#2957#0" expanded="true" />
-            <element signature="e#2991#2992#0" expanded="true" />
-            <element signature="e#3911#3912#0" expanded="true" />
-            <element signature="e#3970#3971#0" expanded="true" />
-            <element signature="e#4252#4253#0" expanded="true" />
-            <element signature="e#4301#4302#0" expanded="true" />
-            <element signature="e#5197#5198#0" expanded="true" />
-            <element signature="e#5248#5249#0" expanded="true" />
-            <element signature="e#5468#5469#0" expanded="true" />
-            <element signature="e#5511#5512#0" expanded="true" />
-            <element signature="e#5699#5700#0" expanded="true" />
-            <element signature="e#5740#5741#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BibliotecaTelacadPartial/Biblioteca.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1619,26 +1087,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/threadsafe/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/Cafe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumball/GumballMachineTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Cafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1651,18 +1103,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/DinerMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator/Cafe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
+        <state relative-caret-position="72">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/Cafe.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH06/state/gumball/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH05/singleton/threadsafe/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/DinerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
