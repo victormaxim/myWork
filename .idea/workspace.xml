@@ -4,12 +4,102 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="">
+    <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="lucraturi">
+      <change afterPath="$PROJECT_DIR$/src/compare/abc - Copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compare/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/ReadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/RevString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/Vitezometru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/dateformat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/diverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/getElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/variableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/HeatIndexDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/WeatherStationHeatIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myWork/fileReader/FileReaderB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myWork/fileReader/FileReaderB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myWork/fileReader/FileReaderC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myWork/fileReader/FileReaderC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myWork/fileReader/propi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myWork/fileReader/propi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileReader/FileReaderC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fileReader/FileReaderC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc - Copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abc - Copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/abc - Copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/abc - Copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/abc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aleator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Aleator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Appletu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Appletu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arraylista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Arraylista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Butoane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Butoane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cerc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Cerc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Citeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Citeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClockApplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/ClockApplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstApplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/FirstApplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Frames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Garaj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Garaj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gene02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Gene02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/General.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/General.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GuiUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/GuiUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Inputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Interfata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JListe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/JListe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JTableCreatingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/JTableCreatingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabelProceduraGetInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/LabelProceduraGetInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListaSimpleCuCifre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/ListaSimpleCuCifre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Liste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Liste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListeCuCifreCurat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/ListeCuCifreCurat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Listecucifre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Listecucifre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Minesweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Minesweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Minesweeper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Minesweeper2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MouseMooves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/MouseMooves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obiect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Obiect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obiectus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Obiectus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Param.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Param.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Pisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Program4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/ReadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Returnshit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Returnshit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RevString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/RevString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/RightClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Serializare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Serializare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SerializarePisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/SerializarePisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShowAFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/ShowAFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/SimpleFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Snippets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Snippets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Sudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SudokuCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/SudokuCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SudokuMixA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/SudokuMixA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sudokuu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Sudokuu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sudokuuu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Sudokuuu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Taimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Taimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TempScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/TempScale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TesteCarte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/TesteCarte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadClassic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/ThreadClassic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/TimerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Timp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/UseAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Usinginterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Usinginterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariabileClase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/VariabileClase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wiley.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Wiley.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/breic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/breic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dateformat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/dateformat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regexA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/regexA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/valori.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/valori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/variableMethod.java" afterDir="false" />
     </list>
     <ignored path="myWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,24 +123,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="30" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="30" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -61,29 +153,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Aleator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abc.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/diverse/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Appletu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Arraylista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/breic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Butoane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Cerc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Citeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderC.java">
+        <entry file="file://$PROJECT_DIR$/src/diverse/ClockApplet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-124">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="459">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,7 +248,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myWork.iml" />
         <option value="$PROJECT_DIR$/src/fileReader/FileReader.java" />
         <option value="$PROJECT_DIR$/src/fileReader/FileReaderB.java" />
         <option value="$PROJECT_DIR$/src/fileReader/propi.java" />
@@ -139,14 +295,11 @@
         <option value="$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/InputTest.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/fileReader/FileReaderC.java" />
+        <option value="$PROJECT_DIR$/src/diverse/variableMethod.java" />
+        <option value="$PROJECT_DIR$/src/observer/WeatherStationHeatIndex.java" />
+        <option value="$PROJECT_DIR$/src/diverse/getElement.java" />
+        <option value="$PROJECT_DIR$/src/variableMethod.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -179,6 +332,11 @@
             <path>
               <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -193,7 +351,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="BouncingBall&#9;FILE&#9;file://A:/Work/git2/myWork/src/Canvas/BouncingBall.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536237073004" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536241153490" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -201,15 +359,19 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="A:\Work\git2\myWork" />
-      <recent name="A:\Work\git2\myWork\resources" />
-      <recent name="A:\Work\git2\myWork\src" />
-      <recent name="A:\Work\git2\myWork\src\compare" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="A:\Work\git2\myWork\src" />
       <recent name="A:\Work\git2\myWork\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="diverse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Work\GIT\myWork\src\diverse" />
+      <recent name="A:\Work\GIT\myWork\src\compare" />
+      <recent name="A:\Work\GIT\myWork\src\observer" />
+      <recent name="A:\Work\GIT\myWork\src" />
+      <recent name="A:\Work\git2\myWork" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,7 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileReaderC">
+  <component name="RunManager" selected="Application.variableMethod">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -369,36 +531,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_Files.CH05.singleton.classic.SingletonClient" />
-      <module name="myWork" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise_Files.CH05.singleton.classic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_Files.CH04.CH04.designpatterns.decorator.starbuzz.StarbuzzCoffee" />
-      <module name="myWork" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise_Files.CH04.CH04.designpatterns.decorator.starbuzz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compare.compare" />
+      <module name="myWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variableMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diverse.variableMethod" />
+      <module name="myWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="diverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -461,19 +623,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StarbuzzCoffee" />
-      <item itemvalue="Application.SingletonClient" />
       <item itemvalue="Application.GumballMachineTestDrive" />
       <item itemvalue="Application.Cafe" />
       <item itemvalue="Application.FileReaderC" />
+      <item itemvalue="Application.compare" />
+      <item itemvalue="Application.variableMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.variableMethod" />
+        <item itemvalue="Application.compare" />
         <item itemvalue="Application.FileReaderC" />
         <item itemvalue="Application.Cafe" />
         <item itemvalue="Application.GumballMachineTestDrive" />
-        <item itemvalue="Application.SingletonClient" />
-        <item itemvalue="Application.StarbuzzCoffee" />
       </list>
     </recent_temporary>
   </component>
@@ -537,7 +699,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504381333552</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lucraturi">
+      <created>1536237277096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1536237277096</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,8 +722,8 @@
       <window_info id="Palette&#9;" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27114967" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27006507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,7 +731,7 @@
       <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.51895994" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286334" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -591,44 +760,14 @@
     <MESSAGE value="add bomberman&#10;" />
     <MESSAGE value="remove bomberman&#10;" />
     <MESSAGE value="lucraturi&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="lucraturi&#10;" />
+    <MESSAGE value="lucraturi" />
+    <option name="LAST_COMMIT_MESSAGE" value="lucraturi" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BibliotecaTelacadPartial/Read me.txt" />
-    <entry file="file://$PROJECT_DIR$/src/BibliotecaTelacadPartial/BookApp.java" />
-    <entry file="file://$PROJECT_DIR$/src/getElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/variableMethod.java" />
-    <entry file="file://$PROJECT_DIR$/src/test2.java" />
-    <entry file="file://$PROJECT_DIR$/src/TesteCarte.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/strategy/MallardDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/strategy/MiniDuckSimulator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Returnshit.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/FlyNoWay.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/ModelDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/MuteQuack.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/Quack.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/QuackBehavior.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/RedHeadDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/RubberDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/Squeak.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/DecoyDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/Duck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/FakeQuack.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/MiniDuckSimulator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/FlyRocketPowered.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/FlyBehavior.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/MallardDuck.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH02/FlyWithWings.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/CurrentConditionsDisplay.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/DisplayElement.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weather/WeatherStation.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/WeatherStation.java" />
-    <entry file="file://$PROJECT_DIR$/src/Snippets.java" />
     <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="file://$PROJECT_DIR$/resources/test.txt" />
     <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/LowerCaseInputStream.java" />
@@ -648,18 +787,179 @@
     <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH07/collections/iterator_builtin/DinerMenu.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/abc.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/diverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/WeatherStationHeatIndex.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compare/abc - Copy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compare/abc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/getElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compare/compare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/variableMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Vitezometru.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/FileReaderC.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/FileReaderB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/RevString.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/propi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Car.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/ReadTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileReader/propi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
+        <state relative-caret-position="187">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Aleator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Appletu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Arraylista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/breic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Butoane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Cerc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Citeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/variableMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dateformat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/ClockApplet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
         </state>
       </provider>
     </entry>
