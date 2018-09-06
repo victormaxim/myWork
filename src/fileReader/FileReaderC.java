@@ -26,7 +26,7 @@ public class FileReaderC {
 
 //String x = filb.getClass().getClassLoader().getResource("test.properties").toString();
             URL xy = filb.getClass().getClassLoader().getResource("config.properties");
-String x = xy.toString();
+            String x = xy.toString();
             System.out.println(x);
 //            System.out.println();
             inputStream = filb.getClass().getClassLoader().getResourceAsStream("test.properties");
