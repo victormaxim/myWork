@@ -1,8 +1,8 @@
-package com.lynda.files;
-
-public class CopyFile {
-
-	public static void main(String[] args) {
-
-	}
-}
+//package com.lynda.files;
+//
+//public class CopyFile {
+//
+//	public static void main(String[] args) {
+//
+//	}
+//}

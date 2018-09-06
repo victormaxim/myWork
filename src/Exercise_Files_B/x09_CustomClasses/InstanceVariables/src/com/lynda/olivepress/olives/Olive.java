@@ -1,9 +1,9 @@
-package com.lynda.olivepress.olives;
-
-public class Olive {
-	
-	public void crush() {
-		System.out.println("ouch!");
-	}
-
-}
+//package com.lynda.olivepress.olives;
+//
+//public class Olive {
+//
+//	public void crush() {
+//		System.out.println("ouch!");
+//	}
+//
+//}

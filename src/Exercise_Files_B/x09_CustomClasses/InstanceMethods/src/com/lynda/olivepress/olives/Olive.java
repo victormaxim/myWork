@@ -1,5 +1,5 @@
-package com.lynda.olivepress.olives;
-
-public class Olive {
-	
-}
+//package com.lynda.olivepress.olives;
+//
+//public class Olive {
+//
+//}

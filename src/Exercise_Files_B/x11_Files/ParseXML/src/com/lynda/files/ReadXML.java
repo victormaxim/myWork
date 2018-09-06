@@ -1,9 +1,9 @@
-package com.lynda.files;
-
-public class ReadXML {
-
-	public static void main(String[] args) {
-	
-	}
-
-}
+//package com.lynda.files;
+//
+//public class ReadXML {
+//
+//	public static void main(String[] args) {
+//
+//	}
+//
+//}
