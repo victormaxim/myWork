@@ -7,6 +7,8 @@ package Canvas;
  * date: 13/09/1999
  */
 
+import org.junit.Test;
+
 import java.awt.*;
 
 public class Tester   
@@ -92,6 +94,7 @@ public class Tester
      * simulates a bouncing ball
      * 
      */
+    @Test
     public void bounce()
     {
         int ground = 400;   // position of the ground line
