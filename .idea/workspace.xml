@@ -5,8 +5,241 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="some changes">
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/APIDocs/src/Mani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/Frama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/Masina.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/myWork/fileReader/FileReaderB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/myWork/fileReader/FileReaderB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/APIDocs/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/APIDocs/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/APIDocs/src/Mani.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/Arguments/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/Arguments/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/Arguments/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/Arguments/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/Arguments/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/Arguments/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/Arguments/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/Arguments/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/CommandLine/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/CommandLine/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/CommandLine/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/CommandLine/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/CommandLine/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/CommandLine/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/CommandLine/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/CommandLine/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/CommandLine/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/CommandLine/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/ExploreEclipse/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/ExploreEclipse/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/ExploreEclipse/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/ExploreEclipse/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/ExploreEclipse/bin/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/ExploreEclipse/bin/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/ExploreEclipse/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/ExploreEclipse/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Booleans/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Booleans/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Booleans/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Booleans/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Booleans/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Booleans/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Booleans/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Booleans/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Characters/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Characters/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Characters/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Characters/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Characters/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Characters/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/Characters/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/Characters/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/ConvertingPrimitives/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/ConvertingPrimitives/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/ConvertingPrimitives/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/ConvertingPrimitives/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/ConvertingPrimitives/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/ConvertingPrimitives/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/ConvertingPrimitives/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/ConvertingPrimitives/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/NumericTypes/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/NumericTypes/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/NumericTypes/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/NumericTypes/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/NumericTypes/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/NumericTypes/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/NumericTypes/bin/PrimitiveLiterals.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/NumericTypes/bin/PrimitiveLiterals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/NumericTypes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/NumericTypes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/NumericTypes/src/PrimitiveLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/NumericTypes/src/PrimitiveLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/SimpleCalc/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/SimpleCalc/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/SimpleCalc/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/SimpleCalc/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/SimpleCalc/bin/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/SimpleCalc/bin/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/SimpleCalc/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/SimpleCalc/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/StringOutput/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/StringOutput/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/StringOutput/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/StringOutput/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/StringOutput/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/StringOutput/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/04_Primitives/StringOutput/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x04_Primitives/StringOutput/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Calculator2/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Calculator2/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Calculator2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Calculator2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Calculator2/bin/Calculator2.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Calculator2/bin/Calculator2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Calculator2/src/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Calculator2/src/Calculator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Comments/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Comments/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Comments/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Comments/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Comments/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Comments/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Comments/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Comments/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Comments/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Comments/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Conditional/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Conditional/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Conditional/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Conditional/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Conditional/bin/CompareStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Conditional/bin/CompareStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Conditional/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Conditional/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Conditional/src/CompareStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Conditional/src/CompareStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Conditional/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Conditional/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Loops/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Loops/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Loops/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Loops/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Loops/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Loops/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Loops/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Loops/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodOverloading/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodOverloading/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodOverloading/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodOverloading/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodOverloading/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodOverloading/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodOverloading/src/OverLo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodOverloading/src/OverLo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Methods/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Methods/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Methods/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Methods/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Methods/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Methods/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Methods/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodsWithArgs/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodsWithArgs/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodsWithArgs/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodsWithArgs/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodsWithArgs/bin/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodsWithArgs/bin/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/MethodsWithArgs/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/MethodsWithArgs/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/bin/Month.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/bin/Month.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/bin/SwitchWithEnums.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/bin/SwitchWithEnums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/bin/SwitchWithInts.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/bin/SwitchWithInts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/bin/SwitchWithString.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/bin/SwitchWithString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/src/Month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/src/Month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/src/SwitchWithEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/src/SwitchWithEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/src/SwitchWithInts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/src/SwitchWithInts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/05_SyntaxAndFlow/Switch/src/SwitchWithString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x05_SyntaxAndFlow/Switch/src/SwitchWithString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Debugger/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Debugger/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Debugger/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Debugger/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Debugger/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Debugger/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Debugger/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Debugger/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Errors/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Errors/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Errors/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Errors/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Errors/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Errors/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Errors/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Errors/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Exceptions/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Exceptions/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Exceptions/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Exceptions/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Exceptions/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Exceptions/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/Exceptions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/Exceptions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/ThrowingExceptions/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/ThrowingExceptions/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/ThrowingExceptions/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/ThrowingExceptions/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/ThrowingExceptions/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/ThrowingExceptions/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/07_Debugging/ThrowingExceptions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x07_Debugging/ThrowingExceptions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/bin/com/lynda/files/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/bin/com/lynda/files/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/lib/commons-io-2.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/lib/commons-io-2.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/loremipsum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/loremipsum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/src/com/lynda/files/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/src/com/lynda/files/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/FileManagement/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/2DArrays/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/FileManagement/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/FileManagement/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/FileManagement/bin/com/lynda/files/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/FileManagement/bin/com/lynda/files/CopyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/FileManagement/loremipsum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/FileManagement/loremipsum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/FileManagement/src/com/lynda/files/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/FileManagement/src/com/lynda/files/CopyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/FileManagement/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/FileManagement/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/NetworkFiles/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/ArrayList/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/NetworkFiles/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/NetworkFiles/bin/com/lynda/files/ReadNetworkFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/bin/com/lynda/files/ReadNetworkFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ParseXML/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/HashMap/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ParseXML/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ParseXML/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ParseXML/bin/com/lynda/files/ReadXML.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ParseXML/bin/com/lynda/files/ReadXML.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ParseXML/src/com/lynda/files/ReadXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ParseXML/src/com/lynda/files/ReadXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/Iterators/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/OlivePressApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/OlivePressApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/bin/com/lynda/olivepress/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Kalamata.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Kalamata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Ligurian.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Ligurian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Olive.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/bin/com/lynda/olivepress/olives/Olive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/bin/com/lynda/olivepress/press/OlivePress.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/bin/com/lynda/olivepress/press/OlivePress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/src/com/lynda/olivepress/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Kalamata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Kalamata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Ligurian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Ligurian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Olive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/src/com/lynda/olivepress/olives/Olive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/press/OlivePress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/src/com/lynda/olivepress/press/OlivePress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/SimpleArrays/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Kalamata.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Kalamata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Ligurian.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Ligurian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Olive.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/olives/Olive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/press/OlivePress.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp - Copy/com/lynda/olivepress/press/OlivePress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/OlivePressApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/OlivePressApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/bin/com/lynda/olivepress/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Kalamata.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Kalamata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Ligurian.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Ligurian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Olive.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/bin/com/lynda/olivepress/olives/Olive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/bin/com/lynda/olivepress/press/OlivePress.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/bin/com/lynda/olivepress/press/OlivePress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/src/com/lynda/olivepress/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Kalamata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Kalamata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Ligurian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Ligurian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Olive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/src/com/lynda/olivepress/olives/Olive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/CreateJAR/src/com/lynda/olivepress/press/OlivePress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/src/com/lynda/olivepress/press/OlivePress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/FileManagement/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/OlivePressApp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/OlivePressApp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/bin/com/lynda/olivepress/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Kalamata.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Kalamata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Ligurian.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Ligurian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Olive.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/bin/com/lynda/olivepress/olives/Olive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/bin/com/lynda/olivepress/press/OlivePress.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/bin/com/lynda/olivepress/press/OlivePress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/class-use/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Kalamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Kalamata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Ligurian.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Ligurian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Olive.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/Olive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Kalamata.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Kalamata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Ligurian.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Ligurian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Olive.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/class-use/Olive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/olives/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/OlivePress.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/OlivePress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/class-use/OlivePress.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/class-use/OlivePress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/com/lynda/olivepress/press/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/resources/inherit.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/resources/inherit.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/src/com/lynda/olivepress/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Kalamata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Kalamata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Ligurian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Ligurian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Olive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/src/com/lynda/olivepress/olives/Olive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/JavaDocs/src/com/lynda/olivepress/press/OlivePress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/src/com/lynda/olivepress/press/OlivePress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/2DArrays/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/2DArrays/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/2DArrays/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/2DArrays/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/2DArrays/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/2DArrays/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/2DArrays/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/ArrayList/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ParseXML/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/ArrayList/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/ArrayList/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/ArrayList/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/ArrayList/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/ArrayList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/ArrayList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/HashMap/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/HashMap/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/HashMap/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/HashMap/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/HashMap/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/HashMap/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/HashMap/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/Iterators/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/CreateJAR/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/Iterators/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/Iterators/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/Iterators/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/Iterators/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/Iterators/src/IteratorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/Iterators/src/IteratorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/SimpleArrays/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/SimpleArrays/.project" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/SimpleArrays/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/SimpleArrays/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/SimpleArrays/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/SimpleArrays/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/SimpleArrays/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Sbuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diverse/Listecucifre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/diverse/Listecucifre.java" afterDir="false" />
     </list>
     <ignored path="myWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,31 +266,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="2" />
           <entry key="classpath" value="2" />
-          <entry key="java" value="264" />
+          <entry key="java" value="277" />
           <entry key="properties" value="5" />
-          <entry key="txt" value="3" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="2" />
           <entry key="Eclipse" value="2" />
-          <entry key="JAVA" value="264" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="277" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Properties" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="java" value="685" />
+          <entry key="java" value="715" />
           <entry key="properties" value="1" />
           <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="685" />
+          <entry key="JAVA" value="715" />
           <entry key="PLAIN_TEXT" value="80" />
           <entry key="Properties" value="1" />
         </counts>
@@ -70,92 +305,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BibliotecaTelacadPartial/BookApp.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/src/com/lynda/files/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="255">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Bomberman/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-              <folding>
-                <element signature="e#1024#1025#0" expanded="true" />
-                <element signature="e#1072#1073#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="146">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Bomberman/src/BomberMain.java">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Frames.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+            <state relative-caret-position="85">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fileReader/propi.java">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Frama.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+            <state relative-caret-position="357">
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderC.java">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/test.properties">
+        <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Sbuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state relative-caret-position="102">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Canvas/Tester.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/APIDocs/src/Mani.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/myWork/config.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/config.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderB.java">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Masina.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/loremipsum.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/target.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -178,12 +406,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Kalamata.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/CreatingInterfaces/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/OverridingMethods/src/com/lynda/olivepress/olives/Ligurian.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Kalamata.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Ligurian.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/CastingObjects/src/com/lynda/olivepress/olives/Olive.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/press/OlivePress.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x10_Inheritance/OverridingMethods/src/com/lynda/olivepress/Main.java" />
@@ -199,7 +421,6 @@
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/Constructors/src/com/lynda/olivepress/Main.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/press/OlivePress.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x04_Primitives/Booleans/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/Strings/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x08_Collections/2DArrays/src/Main.java" />
@@ -229,6 +450,13 @@
         <option value="$PROJECT_DIR$/resources/test.properties" />
         <option value="$PROJECT_DIR$/src/fileReader/FileReaderB.java" />
         <option value="$PROJECT_DIR$/src/Canvas/Tester.java" />
+        <option value="$PROJECT_DIR$/src/diverse/Frama.java" />
+        <option value="$PROJECT_DIR$/src/diverse/RoboDownload.java" />
+        <option value="$PROJECT_DIR$/../automation/MavenTests/src/main/java/RoboDownload.java" />
+        <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/MainImpl.java" />
+        <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Sbuilder.java" />
+        <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/03_GettingStarted/APIDocs/src/Mani.java" />
       </list>
     </option>
   </component>
@@ -259,18 +487,54 @@
             <path>
               <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="myWork" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myWork" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="myWork" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="compare" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files_B" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files_B" type="462c0819:PsiDirectoryNode" />
+              <item name="Solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files_B" type="462c0819:PsiDirectoryNode" />
+              <item name="x12_Deployment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files_B" type="462c0819:PsiDirectoryNode" />
+              <item name="x12_Deployment" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassPath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files_B" type="462c0819:PsiDirectoryNode" />
+              <item name="x12_Deployment" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassPath" type="462c0819:PsiDirectoryNode" />
+              <item name="olivepress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files_B" type="462c0819:PsiDirectoryNode" />
+              <item name="x12_Deployment" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassPath" type="462c0819:PsiDirectoryNode" />
+              <item name="olivepress" type="462c0819:PsiDirectoryNode" />
+              <item name="press" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
@@ -290,7 +554,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="BouncingBall&#9;FILE&#9;file://A:/Work/git2/myWork/src/Canvas/BouncingBall.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538416336802" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538421312916" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LEGO/zap" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -300,19 +564,22 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Work\git2\myWork\src" />
+      <recent name="A:\Work\git2\myWork\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="diverse" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="A:\Work\GIT\myWork\resources" />
       <recent name="A:\Work\GIT\myWork\src" />
       <recent name="A:\Work\GIT\myWork\src\diverse" />
       <recent name="A:\Work\GIT\myWork\src\compare" />
       <recent name="A:\Work\GIT\myWork\src\observer" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="diverse" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="A:\Work\git2\myWork\src" />
-      <recent name="A:\Work\git2\myWork\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,7 +594,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileReader">
+  <component name="RunManager" selected="Application.Mani">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -430,20 +697,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BibliotecaTelacadPartial.BookApp" />
-      <module name="myWork" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BibliotecaTelacadPartial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fileReader.FileReader" />
       <module name="myWork" />
@@ -458,13 +711,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fileReader.FileReaderC" />
+    <configuration name="Frama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diverse.Frama" />
       <module name="myWork" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fileReader.*" />
+          <option name="PATTERN" value="diverse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,13 +725,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_Files.CH03.observer.weatherobservable.WeatherStation" />
+    <configuration name="Mani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mani" />
+      <module name="myWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadNetworkFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lynda.files.ReadNetworkFile" />
       <module name="myWork" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise_Files.CH03.observer.weatherobservable.*" />
+          <option name="PATTERN" value="com.lynda.files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sbuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src.Sbuilder" />
+      <module name="myWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -488,23 +763,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tester.bounce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Canvas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Canvas" />
-      <option name="MAIN_CLASS_NAME" value="Canvas.Tester" />
-      <option name="METHOD_NAME" value="bounce" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -567,19 +825,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherStation" />
-      <item itemvalue="Application.BookApp" />
-      <item itemvalue="Application.FileReaderC" />
-      <item itemvalue="JUnit.Tester.bounce" />
       <item itemvalue="Application.FileReader" />
+      <item itemvalue="Application.ReadNetworkFile" />
+      <item itemvalue="Application.Frama" />
+      <item itemvalue="Application.Sbuilder" />
+      <item itemvalue="Application.Mani" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mani" />
+        <item itemvalue="Application.Sbuilder" />
+        <item itemvalue="Application.Frama" />
+        <item itemvalue="Application.ReadNetworkFile" />
         <item itemvalue="Application.FileReader" />
-        <item itemvalue="JUnit.Tester.bounce" />
-        <item itemvalue="Application.FileReaderC" />
-        <item itemvalue="Application.BookApp" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -692,7 +950,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536326922524</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="some changes">
+      <created>1538416439381</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538416439381</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -704,7 +969,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -713,17 +978,17 @@
       <window_info id="Image Layers" order="6" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.4121475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.4121475" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3286334" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.51895994" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.4121475" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286334" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.4121475" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49946696" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.3286334" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -763,111 +1028,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/olives/Olive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/CustomClasses/src/Calculator2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/press/OlivePress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/Constructors/src/com/lynda/olivepress/olives/Olive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/Constructors/src/com/lynda/olivepress/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="9" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/press/OlivePress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="16" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x04_Primitives/Booleans/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/Strings/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x08_Collections/2DArrays/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/Dates/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x09_Classes/ClassVariables/src/com/lynda/olivepress/press/OlivePress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="26" column="33" lean-forward="true" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x12_Deployment/CreateJAR/src/com/lynda/olivepress/press/OlivePress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="9" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="9" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/StringBuilder/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -896,7 +1056,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/12_Deployment/ClassPath/src/com/lynda/olivepress/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/ClassPath/src/com/lynda/olivepress/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="9" selection-end-line="42" />
@@ -907,13 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="4" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/11_Files/ApacheFileUtils/src/com/lynda/files/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -952,7 +1105,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/ArrayList/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/ArrayList/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="9" selection-end-line="29" />
@@ -966,7 +1119,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/Collections/2DArrays/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x08_Collections/2DArrays/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="9" selection-end-line="31" />
@@ -1098,13 +1251,6 @@
     <entry file="file://$PROJECT_DIR$/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Canvas/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1112,6 +1258,108 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileReader/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x01_GettingStarted/APIDocs/bin/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x01_GettingStarted/APIDocs/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/APIDocs/bin/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/loremipsum.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/target.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/src/com/lynda/files/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Frames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Frama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Masina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../automation/MavenTests/src/main/java/RoboDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/MainImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/Sbuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/APIDocs/src/Mani.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

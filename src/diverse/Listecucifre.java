@@ -44,7 +44,7 @@ public class Listecucifre {
 		lista.remove(1);
 		
 		
-		Collections.sort(lista);
+		x08_Collections.sort(lista);
 		
 		for (Integer temp : lista) {
 			System.out.println(temp);	
