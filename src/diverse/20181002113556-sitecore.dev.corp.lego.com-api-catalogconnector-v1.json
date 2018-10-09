@@ -1,0 +1,81 @@
+{
+  "@version": "2.7.0",
+  "@generated": "Tue, 2 Oct 2018 11:35:56",
+  "site": {
+    "@name": "http://sitecore.dev.corp.lego.com",
+    "@host": "sitecore.dev.corp.lego.com",
+    "@port": "80",
+    "@ssl": "false",
+    "alerts": [
+      {
+        "pluginid": "50001",
+        "alert": "TLG HTTP Response without redirect",
+        "name": "TLG HTTP Response without redirect",
+        "riskcode": "2",
+        "confidence": "4",
+        "riskdesc": "Medium (Confirmed)",
+        "desc": "<p>All sites must only respond to HTTP requests with redirects to HTTPS.</p>",
+        "instances": [
+          {
+            "uri": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1/item?id=2E35508A-3B3F-47CA-8F1B-2862B63E2F63&cultureInfo=en-US&database=pub",
+            "method": "GET",
+            "param": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1/item?id=2E35508A-3B3F-47CA-8F1B-2862B63E2F63&cultureInfo=en-US&database=pub",
+            "attack": "Nonfunctional requirements verification",
+            "evidence": "200"
+          },
+          {
+            "uri": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1/unpublish",
+            "method": "POST",
+            "param": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1/unpublish",
+            "attack": "Nonfunctional requirements verification",
+            "evidence": "204"
+          },
+          {
+            "uri": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1/publish?id=2E35508A-3B3F-47CA-8F1B-2862B63E2F63&database=pub",
+            "method": "GET",
+            "param": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1/publish?id=2E35508A-3B3F-47CA-8F1B-2862B63E2F63&database=pub",
+            "attack": "Nonfunctional requirements verification",
+            "evidence": "200"
+          }
+        ],
+        "count": "3",
+        "solution": "<p>Change web app so that all HTTP requests redirects to HTTPS</p>",
+        "otherinfo": "<p>Alert Code: HTTPR1</p><p>TLG Info:</p><p>If you are scanning this before going live, make sure this alert has been resolved.</p><p>If you are scanning this after go-live, register the defect as Facepalm (Minor). Must be fixed within 7 calendar days.</p>",
+        "reference": "<p></p>",
+        "sourceid": "3"
+      },
+      {
+        "pluginid": "15",
+        "alert": "TLG Summary. 3 of 0 URLs (Infinity%) have alerts",
+        "name": "TLG Summary. 3 of 0 URLs (Infinity%) have alerts",
+        "riskcode": "0",
+        "confidence": "4",
+        "riskdesc": "Informational (Confirmed)",
+        "desc": "<p>Informational alert, showing amount of scanned URLs having high, medium or low alerts.</p>",
+        "instances": [
+          {
+            "uri": "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1",
+            "method": "GET",
+            "param": "n/a",
+            "attack": "Nonfunctional requirements verification",
+            "evidence": "n/a"
+          }
+        ],
+        "count": "1",
+        "solution": "<p>Fix TLG alerts</p>",
+        "otherinfo": "<p>Alert Code: AlertPercent</p><p></p>",
+        "reference": "<p></p>",
+        "sourceid": "4"
+      }
+    ]
+  },
+  "@tlgZapVersion": "12.0",
+  "@timestamp": "20181002113556",
+  "@targets": [
+    "http://sitecore.dev.corp.lego.com/api/catalogconnector/v1"
+  ],
+  "@ruleSet": "Generic",
+  "@maxChildren": 20,
+  "@zapSpiderDepth": 9,
+  "@inDocker": true
+}
