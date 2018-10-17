@@ -4,11 +4,42 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="refactors and added some files from other repos (frama, masina)">
-      <change afterPath="$PROJECT_DIR$/src/diverse/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diverse/zap-scan-json.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diverse/zap-scan-json_B.ps1" afterDir="false" />
+    <list default="true" id="efc57757-01b3-4520-b197-b2c3f53b8619" name="Default" comment="adds some scripts (zap-scan) in diverse">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sprites/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sprites/alien.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sprites/ship.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sprites/shot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/beans/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/first/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/first/useri.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/LoginFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/SignUpFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/SignUpFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/login/LoginContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/useri.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/Fereastra3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/SimplifiedSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diverse/rightClickFrameActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/images/mine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/images/mine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/images/pros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myWork/images/tile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/mine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mine.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/mine.png" beforeDir="false" afterPath="$PROJECT_DIR$/mine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/pros.png" beforeDir="false" afterPath="$PROJECT_DIR$/pros.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/tile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moon_lander/JTableCreatingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jFrames/JTableCreatingDemo.java" afterDir="false" />
     </list>
     <ignored path="myWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,33 +59,36 @@
         <counts>
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.60" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
           <entry key="classpath" value="2" />
+          <entry key="form" value="1" />
           <entry key="html" value="1" />
-          <entry key="java" value="288" />
+          <entry key="java" value="321" />
           <entry key="jpg" value="1" />
           <entry key="properties" value="5" />
           <entry key="ps1" value="2" />
-          <entry key="txt" value="6" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="Eclipse" value="2" />
+          <entry key="GUI_DESIGNER_FORM" value="1" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="288" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="321" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="PowerShell file" value="1" />
           <entry key="Properties" value="5" />
         </counts>
@@ -63,17 +97,17 @@
         <counts>
           <entry key="dummy" value="23" />
           <entry key="html" value="1" />
-          <entry key="java" value="715" />
+          <entry key="java" value="876" />
           <entry key="properties" value="1" />
           <entry key="ps1" value="7" />
-          <entry key="txt" value="142" />
+          <entry key="txt" value="192" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="715" />
-          <entry key="PLAIN_TEXT" value="165" />
+          <entry key="JAVA" value="876" />
+          <entry key="PLAIN_TEXT" value="215" />
           <entry key="PowerShell file" value="7" />
           <entry key="Properties" value="1" />
         </counts>
@@ -86,89 +120,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/diverse/Minesweeper2.java">
+        <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jFrames/Fereastra3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/jFrames/DefaultListModelTut.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CarImplementsVitezometru/Vitezometru.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CarImplementsVitezometru/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/diverse/zap-scan-json.ps1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/diverse/zap-scan-json_B.ps1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/ImageIcon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2465">
-              <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+            <state relative-caret-position="1037">
+              <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
               <folding>
-                <element signature="e#5677#5678#0" expanded="true" />
-                <element signature="e#5717#5718#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/mine.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/src/moon_lander/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/abc - Copy.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/ShipEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Entity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Sprite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/SpriteStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/AlienEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/diverse/SimplifiedSudoku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/diverse/Sudokuuu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/moon_lander/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -191,21 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/InstanceMethods/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/olives/Olive.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/CustomClasses/src/Calculator2.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/press/OlivePress.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/Constructors/src/com/lynda/olivepress/olives/Olive.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/Constructors/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/InstanceVariables/src/com/lynda/olivepress/press/OlivePress.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/GettersAndSetters/src/com/lynda/olivepress/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x04_Primitives/Booleans/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/Strings/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x08_Collections/2DArrays/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/Dates/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x09_Classes/ClassVariables/src/com/lynda/olivepress/press/OlivePress.java" />
-        <option value="$PROJECT_DIR$/src/Exercise_Files_B/x12_Deployment/CreateJAR/src/com/lynda/olivepress/press/OlivePress.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x10_Inheritance/UsingInterfaces/src/com/lynda/olivepress/Main.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/x06_ComplexObjects/StringBuilder/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x10_Inheritance/ExtendingCustom/src/com/lynda/olivepress/Main.java" />
@@ -242,6 +268,21 @@
         <option value="$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x12_Deployment/JavaDocs/doc/help-doc.html" />
         <option value="$PROJECT_DIR$/src/diverse/zap-scan-json.ps1" />
         <option value="$PROJECT_DIR$/src/diverse/zap-scan-json_B.ps1" />
+        <option value="$PROJECT_DIR$/src/diverse/Minesweeper2.java" />
+        <option value="$PROJECT_DIR$/src/diverse/rightClickFrameActions.java" />
+        <option value="$PROJECT_DIR$/src/first_modi/src/first/Main.java" />
+        <option value="$PROJECT_DIR$/src/first_modi/src/gui/SignUpFrame.java" />
+        <option value="$PROJECT_DIR$/src/first_modi/src/gui/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/first_modi/src/login/LoginContainer.java" />
+        <option value="$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/login/LoginContainer.java" />
+        <option value="$PROJECT_DIR$/src/jFrames/JTableCreatingDemo.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Entity.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Sprite.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/SpriteStore.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/AlienEntity.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/ShipEntity.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/ShotEntity.java" />
+        <option value="$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Game.java" />
       </list>
     </option>
   </component>
@@ -263,24 +304,12 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="myWork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="diverse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myWork" type="b2602c69:ProjectViewProjectNode" />
@@ -291,6 +320,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,32 +328,37 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="BouncingBall&#9;FILE&#9;file://A:/Work/git2/myWork/src/Canvas/BouncingBall.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538563308653" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LEGO/zap" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539097655676" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stuff/JavaBulk/Moon-lander_source-code" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="A:\Work\git2\myWork\src" />
-      <recent name="A:\Work\git2\myWork\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Work\GIT\myWork" />
+      <recent name="A:\Work\GIT\myWork\src" />
       <recent name="A:\Work\GIT\myWork\src\diverse" />
       <recent name="A:\Work\GIT\myWork\resources" />
-      <recent name="A:\Work\GIT\myWork\src" />
       <recent name="A:\Work\GIT\myWork\src\compare" />
-      <recent name="A:\Work\GIT\myWork\src\observer" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="diverse" />
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="diverse" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Work\GIT\myWork\resources" />
+      <recent name="A:\Work\GIT\myWork" />
+      <recent name="A:\Work\git2\myWork\src" />
+      <recent name="A:\Work\git2\myWork\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -338,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultListModelTut">
+  <component name="RunManager" selected="Application.Sudokuuu">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -435,14 +470,36 @@
       <listeners />
       <method />
     </configuration>
+    <configuration name="SimplifiedSudoku" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diverse.SimplifiedSudoku" />
+      <module name="myWork" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultListModelTut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jFrames.DefaultListModelTut" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spaceinvaders.org.newdawn.spaceinvaders.Game" />
+      <module name="myWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spaceinvaders.org.newdawn.spaceinvaders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JTableCreatingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jFrames.JTableCreatingDemo" />
       <module name="myWork" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -455,16 +512,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mani" />
-      <module name="myWork" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Minesweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diverse.Minesweeper" />
+    <configuration name="Sudokuuu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diverse.Sudokuuu" />
       <module name="myWork" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -477,27 +526,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minesweeper2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diverse.Minesweeper2" />
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moon_lander.Window" />
       <module name="myWork" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="diverse.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sbuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src.Sbuilder" />
-      <module name="myWork" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise_Files_B.Solutions.x06_ComplexObjects.StringBuilder.src.*" />
+          <option name="PATTERN" value="jFrames.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -569,19 +604,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sbuilder" />
-      <item itemvalue="Application.Mani" />
-      <item itemvalue="Application.Minesweeper" />
-      <item itemvalue="Application.Minesweeper2" />
-      <item itemvalue="Application.DefaultListModelTut" />
+      <item itemvalue="Application.JTableCreatingDemo" />
+      <item itemvalue="Application.Window" />
+      <item itemvalue="Application.Game" />
+      <item itemvalue="Applet.SimplifiedSudoku" />
+      <item itemvalue="Application.Sudokuuu" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DefaultListModelTut" />
-        <item itemvalue="Application.Minesweeper2" />
-        <item itemvalue="Application.Minesweeper" />
-        <item itemvalue="Application.Mani" />
-        <item itemvalue="Application.Sbuilder" />
+        <item itemvalue="Application.Sudokuuu" />
+        <item itemvalue="Applet.SimplifiedSudoku" />
+        <item itemvalue="Application.Window" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.JTableCreatingDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -708,7 +743,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538421463475</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="adds some scripts (zap-scan) in diverse">
+      <created>1539086085106</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539086085106</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -717,10 +759,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -730,16 +772,16 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.4121475" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4946695" visible="true" weight="0.4121475" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Inspection Results" order="7" weight="0.3286334" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.51895994" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.4121475" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49840087" weight="0.3286334" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5053305" side_tool="true" visible="true" weight="0.4121475" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4978678" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49520257" weight="0.3286334" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -773,207 +815,18 @@
     <MESSAGE value="modify Exercise Files - B" />
     <MESSAGE value="some changes" />
     <MESSAGE value="refactors and added some files from other repos (frama, masina)" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactors and added some files from other repos (frama, masina)" />
+    <MESSAGE value="adds some scripts (zap-scan) in diverse" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds some scripts (zap-scan) in diverse" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x09_CustomClasses/InstanceMethods/src/com/lynda/olivepress/olives/Olive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/ClockApplet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Cerc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Listecucifre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH03/observer/weatherobservable/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BibliotecaTelacadPartial/Carte.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/compare/compare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/myWork/test.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BibliotecaTelacadPartial/BookApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bomberman/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bomberman/src/BomberMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fileReader/propi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/myWork/config.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Canvas/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fileReader/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fileReader/FileReaderB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x01_GettingStarted/APIDocs/bin/Main.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/x01_GettingStarted/APIDocs/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x03_GettingStarted/APIDocs/bin/Main.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/loremipsum.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/target.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ApacheFileUtils/src/com/lynda/files/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Frames.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../automation/MavenTests/src/main/java/RoboDownload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x06_ComplexObjects/StringBuilder/src/MainImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/NetworkFiles/src/com/lynda/files/ReadNetworkFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercise_Files_B/Solutions/x11_Files/ParseXML/src/com/lynda/files/ReadXML.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Frama.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -988,13 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Masina.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1033,13 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/Minesweeper2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jFrames/Fereastra3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1068,14 +907,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/ImageIcon.java">
+    <entry file="file://$PROJECT_DIR$/src/diverse/zap-scan-json.ps1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2465">
-          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
-          <folding>
-            <element signature="e#5677#5678#0" expanded="true" />
-            <element signature="e#5717#5718#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1275">
+          <caret line="91" column="1" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1085,17 +920,250 @@
     <entry file="file://$PROJECT_DIR$/resources/abc - Copy.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/zap-scan-json.ps1">
+    <entry file="file://$PROJECT_DIR$/src/diverse/zap-scan-json_B.ps1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/diverse/zap-scan-json_B.ps1">
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/CondimentDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/starbuzz/StarbuzzCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/LowerCaseInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise_Files/CH04/CH04/designpatterns/decorator/io/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="158" column="63" lean-forward="true" selection-start-line="158" selection-start-column="63" selection-end-line="158" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Frames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/rightClickFrameActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Minesweeper2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Frama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Returnshit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Masina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/LoginFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/SignUpFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/gui/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/login/LoginContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NetBeans_UserLoginFrame/src/first/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moon_lander/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moon_lander/Framework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moon_lander/LandingArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moon_lander/PlayerRocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jFrames/JTableCreatingDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/ShotEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moon_lander/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/ShipEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/Sprite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/SpriteStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spaceinvaders/org/newdawn/spaceinvaders/AlienEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/SimplifiedSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/moon_lander/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diverse/Sudokuuu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
         </state>
       </provider>
     </entry>
