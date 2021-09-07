@@ -1,6 +1,0 @@
-package diverse;
-
-public enum TempScale {
-CELSIUS, FAHRENHEIT, KELVIN, RANKINE,
-NEWTON, DELISLE, RAUMUR, RAMER, LEIDEN
-};

@@ -1,3 +1,4 @@
+package diverse;
 
 public class Multiclass implements Runnable{
 

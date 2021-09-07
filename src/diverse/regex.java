@@ -54,7 +54,7 @@ String cauta = new String();
                 poz = s.indexOf(cauta,poz);
 //                System.out.println(poz);
 //                System.out.println(s.indexOf(" ",poz + sir.length() + 1));
-                arg1 = s.indexOf(" ",poz + sir.length() + 1) >0 ? s.substring(poz + sir.length()+1, s.indexOf(" ",poz + sir.length() + 1)) : s.substring(poz + sir.length()+1, s.length());
+                arg1 = s.indexOf(" ",poz + sir.length() + 1) > 0 ? s.substring(poz + sir.length()+1, s.indexOf(" ",poz + sir.length() + 1)) : s.substring(poz + sir.length()+1, s.length());
 
                 System.out.println(entry.getValue() + arg1);
             }

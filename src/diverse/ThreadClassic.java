@@ -20,11 +20,13 @@ public class ThreadClassic{
 	         }
 
 	         public void run() {
-	        	 try {
-					Thread.sleep(dilei);
-					System.out.println(text);
-				}
-	        	 catch (InterruptedException e) {}
+
+				 try {
+					 Thread.sleep(dilei);
+				 } catch (InterruptedException e) {
+					 e.printStackTrace();
+				 }
+				 System.out.println(text);
 	         }
 	     }
 	 
